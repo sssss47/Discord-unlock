@@ -52,17 +52,4 @@ sc delete WinDivert
 > [!WARNING]
 > Если вы открываете Issue *(в этом репозитории)* с проблемой в использовании на **Linux**, то, как бы это не звучало, это ошибка. Все вопросы по работе на Linux нужно открывать в **[ОРИГИНАЛЬНОМ](https://github.com/bol-van/zapret/)** репозитории. Следовательно, задавайте вопросы [тут](https://github.com/bol-van/zapret/issues/).
 
-## Support
 
-If you like the project, leave a :star: (top right) and become a [stargazer](https://github.com/Flowseal/zapret-discord-youtube/stargazers)!
-
-[![Stargazers repo roster for @Flowseal/zapret-discord-youtube](https://reporoster.com/stars/dark/Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/stargazers)
-
-## Credits & Contributors
-<p align="left">
-  <a href="https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube" />
-  </a>
-</p>
-
-* Many thanks to [bol-van](https://github.com/bol-van/), creator of original [zapret](https://github.com/bol-van/zapret/) repository.
