@@ -1,7 +1,7 @@
 ## Guides
 ### Windows
 > [!IMPORTANT]  
-> Если всё еще не скачан, то скачайте последний [релиз](https://github.com/Flowseal/zapret-discord-youtube/releases), разархивируйте в отдельную папку.
+> Если всё еще не скачан, то скачайте последний [релиз](https://github.com/Filinsl/Discord-unlock/releases), разархивируйте в отдельную папку.
 
 Запустите **от имени администратора** то, что вам нужно:
 - **`discord.bat`** - запустить обход дискорда.
