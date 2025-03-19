@@ -25,8 +25,6 @@
 - Не прогружается видео на ютубе? Попробуйте поставить **`Kyber`** и **`QUIC`** в default (`chrome://flags/`).
   * Также в файле, который открываете, в строчке с `--filter-tcp=443`: попробуйте поменять `--dpi-desync-fooling=md5sig` на `--dpi-desync-fooling=badseq`.
  - Попробуйте обновить бинарники с оригинального репозитория.
-- Не работает **YouTube**? Попробуйте найти ответ здесь - https://github.com/Flowseal/zapret-discord-youtube/issues/90
-- Не работает **Discord**? Попробуйте найти ответ здесь - https://github.com/Flowseal/zapret-discord-youtube/issues/92
 
 ### Остановка и удаление обхода
 Для удаления оставшегося драйвера WinDivert, откройте cmd от имени администратора и пропишите следующее:
